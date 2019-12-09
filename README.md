@@ -34,6 +34,7 @@ All people who want an entertainment without discriminating their age and gender
 
 1.5 CONSTRAINTS
 Time will be the biggest constraint while developing this website, followed by commitment and lastly the knowledge that developers have.
+
 1.6 PROJECT STAGES
 ---------------------------------------------------------------------------
 Page (milestone)	|| day needed 	|| due date 
