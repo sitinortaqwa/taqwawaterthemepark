@@ -26,16 +26,24 @@ The website we will be developing is to be used as a web application. Targeted u
 2- To become a reliable and trusted website
 3- To ease ticket buying process.
 
-1.4 PROJECT SCOPE
-1.4.1 Scope
+1.4 FEATURES AND FUCTIONALITIES
+1- Delete Data - Delete data that being cancel by user from the system 
+2- Add Data - Add data to the system
+3- Update Data - Update any customer information from the system
+4- View Data - Can view customer information from the system
+5- Error Handling - Checking the error in login page to avoid attempt from unauthorised login
+6- Clear Navigation - Navigation that easy to understand and can assists customer using the system
+
+1.5 PROJECT SCOPE
+1.5.1 Scope
 The website will allow users to buy tickets for Taqwa water theme park online, which includes all prices, for adults, children, senior citizens and foreigners. Besides, we include a feature where the users can book rooms if they would like to stay. The rooms we offer are single beds, double beds and a family room and of course, the room price will be according to the users’ choices. Lastly, the vouchers purchasing site for the Taqwa café uses. Here, we offer them to buy meal vouchers and there will be history of their used vouchers so there shouldn’t have any conflicts rise. 
-1.4.2 Targeted User
+1.5.2 Targeted User
 All people who want an entertainment without discriminating their age and gender.
 
-1.5 CONSTRAINTS
+1.6 CONSTRAINTS
 Time will be the biggest constraint while developing this website, followed by commitment and lastly the knowledge that developers have.
 
-1.6 PROJECT STAGES
+1.7 PROJECT STAGES
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Page (milestone).........|| day needed   || due date
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -51,8 +59,8 @@ Sync database............|| 3 days	|| 17/12/19
 
 Test application.........|| 1 day	|| 21/12/19
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-1.7 SIGNIFICANCE OF THE PROJECT
+1.8 SIGNIFICANCE OF THE PROJECT
 In the end, this website will give benefits to the entertainment field, as it offered an easy way to book the fun using only one website.
 
-1.8 SUMMARY
+1.9 SUMMARY
 To summarize, this website will give benefits to the entertainment industry as it offers an easy way to have fun with just using one website. 
