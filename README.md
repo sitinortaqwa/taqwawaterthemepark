@@ -36,16 +36,16 @@ All people who want an entertainment without discriminating their age and gender
 Time will be the biggest constraint while developing this website, followed by commitment and lastly the knowledge that developers have.
 
 1.6 PROJECT STAGES
----------------------------------------------------------------------------
-Page (milestone)	        || day needed 	|| due date 
----------------------------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Page (milestone)                || day needed   || due date
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Log in / create new user	|| 2 day	|| 13/12/19
 Ticket			        || 2 days	|| 13/12/19
 Room Reservation	        || 3 days	|| 14/12/19
 Café Vouchers		        || 2 days	|| 13/12/19
 Sync database		        || 3 days	|| 17/12/19
 Test application		|| 1 day	|| 21/12/19
----------------------------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1.7 SIGNIFICANCE OF THE PROJECT
 In the end, this website will give benefits to the entertainment field, as it offered an easy way to book the fun using only one website.
 
