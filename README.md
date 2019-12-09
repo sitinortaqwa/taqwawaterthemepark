@@ -31,7 +31,7 @@ The website we will be developing is to be used as a web application. Targeted u
 2- Add Data - Add data to the system
 3- Update Data - Update any customer information from the system
 4- View Data - Can view customer information from the system
-5- Error Handling - Checking the error in login page to avoid attempt from unauthorised login
+5- Error Handling - Checking the error in login page to avoid attempt from unauthorised login and correct handling of error that free from bugs
 6- Clear Navigation - Navigation that easy to understand and can assists customer using the system
 
 1.5 PROJECT SCOPE
