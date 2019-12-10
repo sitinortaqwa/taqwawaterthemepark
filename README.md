@@ -1,12 +1,18 @@
 # taqwawaterthemepark
 
 Project Title: Taqwa Water Theme-Park
+
 Group Name: Taqwa
+
 Student Name: 
 Sitinor Taqwa Binti Adenan 	1711912
+
 Sharifah Shakirah Md Noor	1725330
+
 Azma Melia Binti Jafri 		1716694
+
 Nik Aniselisa Binti Nik Hassan	1723720
+
 
 1.1 INTRODUCTION
 	Taqwa Water-Theme Park website is basically a website that offers the users to buy the ticket and book a room in our Taqwa Hotel. Since it is water theme-park, we would like to ease our clients by offering vouchers that they can purchase online to be used for the café inside Taqwa Water Theme Park. In order to use the vouchers their bracelets id – which is the tickets, will be scanned. Therefore, the clients will be able to enjoy to the fullest without worrying of their physical money being stolen.
