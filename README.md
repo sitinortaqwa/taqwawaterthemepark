@@ -40,13 +40,13 @@ The website we will be developing is to be used as a web application. Targeted u
 
 3- To ease ticket buying process.
 
-1.4 FEATURES AND FUCTIONALITIES
+1.4 FEATURES AND FUNCTIONALITIES
 
-1- Delete Data - Delete data that being cancel by user from the system 
+1- Delete Data - User will be able to remove the ticket, booking a room and cafe menu
 
-2- Add Data - Add data to the system
+2- Add Data - User can sign up- adding a profile, buy the entrance ticket, booking a room & buy voucher for cafe
 
-3- Update Data - Update any customer information from the system
+3- Update Data - After buy the ticket, user can add more quantity. User also can update their details
 
 4- View Data - Can view customer information from the system
 
@@ -66,34 +66,33 @@ The website will allow users to buy tickets for Taqwa water theme park online, w
 
 All people who want an entertainment without discriminating their age and gender.
 
-
 1.6 CONSTRAINTS
 
-Time will be the biggest constraint while developing this website, followed by commitment and lastly the knowledge that developers have.
+Time is the biggest constraint as time doesn't wait for anyone. Apart from time, to gather the knowledge and facts that we know before develop a web application is among the top constraint that we have. The effect of these constraints is it's delaying our project timeline.
 
 1.7 PROJECT STAGES
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Page (milestone).........|| day needed   || due date
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Log in / create new user.|| 2 day	|| 13/12/19 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Page (milestone)....................|| Day needed|| Due date
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Log in / create new user............|| 2 day	 || 13/12/19 
+ 
+Ticket..............................|| 2 days 	 || 13/12/19
 
-Ticket...................|| 2 days	|| 13/12/19
+Room Reservation....................|| 3 days	 || 14/12/19
 
-Room Reservation.........|| 3 days	|| 14/12/19
+Café Vouchers.......................|| 2 days	 || 13/12/19
 
-Café Vouchers............|| 2 days	|| 13/12/19
+Sync database.......................|| 3 days	 || 17/12/19
 
-Sync database............|| 3 days	|| 17/12/19
-
-Test application.........|| 1 day	|| 21/12/19
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Test application....................|| 1 day	 || 21/12/19
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 1.8 SIGNIFICANCE OF THE PROJECT
 
-In the end, this website will give benefits to the entertainment field, as it offered an easy way to book the fun using only one website.
+In the end, we hope that this website will give benefits to the entertainment field, as it offered an easy way to book the fun using only one website.
 
 
 1.9 SUMMARY
 
-To summarize, this website will give benefits to the entertainment industry as it offers an easy way to have fun with just using one website. 
+To summarize, we admit that the knowledge that we have is limited and we need widen our knowledge more bigger. Admiting that we are failed doesn't make us a failure, but instead, it is something that make us grow stronger. We hope, in future, we can finish this system and start develop it for future well being. 
